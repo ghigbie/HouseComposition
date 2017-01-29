@@ -53,17 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LivingRoom.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LivingRoom.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/LivingRoom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sofa.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sofa.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/Sofa.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
@@ -149,10 +152,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/georgehigbie/Main.java" />
         <option value="$PROJECT_DIR$/src/com/georgehigbie/Room.java" />
-        <option value="$PROJECT_DIR$/src/com/georgehigbie/LivingRoom.java" />
         <option value="$PROJECT_DIR$/src/com/georgehigbie/Lights.java" />
         <option value="$PROJECT_DIR$/src/com/georgehigbie/Television.java" />
         <option value="$PROJECT_DIR$/src/com/georgehigbie/Sofa.java" />
+        <option value="$PROJECT_DIR$/src/com/georgehigbie/LivingRoom.java" />
       </list>
     </option>
   </component>
@@ -505,14 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/LivingRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/Lights.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -570,6 +565,17 @@
             <element signature="e#834#835#0" expanded="true" />
             <element signature="e#884#885#0" expanded="true" />
             <element signature="e#926#927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/LivingRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
           </folding>
         </state>
       </provider>

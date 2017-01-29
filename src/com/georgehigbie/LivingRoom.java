@@ -5,9 +5,20 @@ package com.georgehigbie;
  */
 public class LivingRoom extends Room {
 
+    private Sofa sofa;
+    private Lights lights;
+    private Television televison;
 
-    public LivingRoom(int numberWalls, int numberWindows, int numberDoors, String roomName) {
+
+    public LivingRoom(int numberWalls, int numberWindows, int numberDoors, String roomName, Sofa sofa, Lights lights, Television television) {
         super(numberWalls, numberWindows, numberDoors, roomName);
+        this.sofa = sofa;
+        this.lights = lights;
+        this.televison = television;
+    }
+
+    public void beARoom(){
+        System.out.println("You walk into the living room.");
     }
 
 
