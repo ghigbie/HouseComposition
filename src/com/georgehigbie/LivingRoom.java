@@ -21,7 +21,15 @@ public class LivingRoom extends Room {
         System.out.println("You walk into the living room.");
     }
 
+    public Sofa getSofa() {
+        return sofa;
+    }
 
+    public Lights getLights() {
+        return lights;
+    }
 
-
+    public Television getTelevison() {
+        return televison;
+    }
 }
