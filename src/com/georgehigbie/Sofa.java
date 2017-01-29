@@ -8,9 +8,14 @@ public class Sofa {
     private int numberSeats;
     private String plushness;
 
+
     public Sofa(int numberSeats, String plushness) {
         this.numberSeats = numberSeats;
         this.plushness = plushness;
+    }
+
+    public void letPeopleSit(){
+        System.out.println("People are now sitting in this sofa. Yay!");
     }
 
     //auto generated getters and setters
