@@ -18,6 +18,10 @@ public class Sofa {
         System.out.println("People are now sitting in this sofa. Yay!");
     }
 
+    public void kickPeopleOff(){
+        System.out.println("The sofa just came to life and kicked people off. Everyone leaves the house screaming!");
+    }
+
     //auto generated getters and setters
     public int getNumberSeats() {
         return numberSeats;
