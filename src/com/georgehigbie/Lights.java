@@ -13,6 +13,14 @@ public class Lights {
         this.numberLights = numberLights;
     }
 
+    public void turnOn(){
+        System.out.println("The lights are now on.");
+    }
+
+    public void turnOff(){
+        System.out.println("The lights are now off. Be carefull.");
+    }
+
     public int getBrightness() {
         return brightness;
     }

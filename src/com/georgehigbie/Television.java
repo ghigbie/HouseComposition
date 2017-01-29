@@ -25,6 +25,10 @@ public class Television {
         }
     }
 
+    public void turnOff(){
+        System.out.println("The TV is now off.");
+    }
+
     public int getSize() {
         return size;
     }

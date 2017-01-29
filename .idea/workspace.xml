@@ -84,28 +84,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lights.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Lights.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/Lights.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="300">
+              <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
               <folding>
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Television.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Television.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/Television.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="180">
               <caret line="23" column="78" lean-forward="false" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
               <folding>
                 <element signature="e#309#310#0" expanded="true" />
@@ -144,8 +149,8 @@
         <option value="$PROJECT_DIR$/src/com/georgehigbie/Room.java" />
         <option value="$PROJECT_DIR$/src/com/georgehigbie/LivingRoom.java" />
         <option value="$PROJECT_DIR$/src/com/georgehigbie/Sofa.java" />
-        <option value="$PROJECT_DIR$/src/com/georgehigbie/Lights.java" />
         <option value="$PROJECT_DIR$/src/com/georgehigbie/Television.java" />
+        <option value="$PROJECT_DIR$/src/com/georgehigbie/Lights.java" />
       </list>
     </option>
   </component>
@@ -525,25 +530,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/Lights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/Television.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="180">
           <caret line="23" column="78" lean-forward="false" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
           <folding>
             <element signature="e#309#310#0" expanded="true" />
@@ -556,6 +545,27 @@
             <element signature="e#828#829#0" expanded="true" />
             <element signature="e#883#884#0" expanded="true" />
             <element signature="e#929#930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/georgehigbie/Lights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+          <folding>
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
           </folding>
         </state>
       </provider>
