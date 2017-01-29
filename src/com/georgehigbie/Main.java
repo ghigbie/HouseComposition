@@ -14,7 +14,15 @@ public class Main {
         livingRoom.getNumberDoors();
         livingRoom.getRoomName();
 
+        livingRoom.getSofa().getPlushness();
+        livingRoom.getSofa().letPeopleSit();
+        livingRoom.getSofa().kickPeopleOff();
 
+        livingRoom.getTelevison().getSize();
+        livingRoom.getTelevison().turnOn();
+        livingRoom.getTelevison().getNetflix();
+
+        livingRoom.getLights().turnOn();
     }
 
 

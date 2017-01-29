@@ -5,7 +5,7 @@ package com.georgehigbie;
  */
 public class LivingRoom extends Room {
 
-    private Sofa sofa;
+    public Sofa sofa;
     private Lights lights;
     private Television televison;
 
