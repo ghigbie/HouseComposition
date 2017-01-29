@@ -23,6 +23,7 @@ public class Main {
         livingRoom.getTelevison().getNetflix();
 
         livingRoom.getLights().turnOn();
+        livingRoom.turnLightsOn();
     }
 
 

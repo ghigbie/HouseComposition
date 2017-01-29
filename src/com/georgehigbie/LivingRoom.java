@@ -17,6 +17,11 @@ public class LivingRoom extends Room {
         this.televison = television;
     }
 
+    public void turnLightsOn(){
+        System.out.println("Living room is turing on the lights!!!");
+        lights.turnOn();
+    }
+
     public void beARoom(){
         System.out.println("You walk into the living room.");
     }
